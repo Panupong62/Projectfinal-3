@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877068414554",
+    "project_id": "playerlist-f59a7",
+    "storage_bucket": "playerlist-f59a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877068414554:android:f7fefb0ba525a3aef43263",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.PlayerList"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877068414554-hik19vce8lb8v5v12h5lksm6k1lmfimm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDZWbvBBUViOwMmMFxMLkgvExHiVeFBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877068414554-hik19vce8lb8v5v12h5lksm6k1lmfimm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
